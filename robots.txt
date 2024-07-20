@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raldwisqu.github.io/sitemap
+Sitemap: https://raldwisqu.github.io/app/sitemap
+Sitemap: https://raldwisqu.github.io/assets/sitemap
+Sitemap: https://raldwisqu.github.io/css/sitemap
+Sitemap: https://raldwisqu.github.io/includes/sitemap
+Sitemap: https://raldwisqu.github.io/item/sitemap
+Sitemap: https://raldwisqu.github.io/src/sitemap
